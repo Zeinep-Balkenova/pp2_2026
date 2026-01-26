@@ -1,5 +1,5 @@
 print("Hello, World!")
 print("KBTU" * 3)
 print(3 + 2)
-print("Five is greater than two!")
+print("Hello World!", end=" ")
 print(f"Привет!")
