@@ -12,7 +12,6 @@ print('He is called "Johnny"')
 
 #Example
 #You can use three double quotes:
-
 a = """Lorem ipsum dolor sit amet,
 consectetur adipiscing elit,
 sed do eiusmod tempor incididunt
@@ -81,19 +80,6 @@ print(a.split(",")) # returns ['Hello', ' World!']
 #Example
 #The escape character allows you to use double quotes when you normally would not be allowed:
 txt = "We are the so-called \"Vikings\" from the north."
-
-"""
-Code	Result	Try it
-\'	Single Quote	
-\\	Backslash	
-\n	New Line	
-\r	Carriage Return	
-\t	Tab	
-\b	Backspace	
-\f	Form Feed	
-\ooo	Octal value	
-\xhh	Hex value
-"""
 
 
 
