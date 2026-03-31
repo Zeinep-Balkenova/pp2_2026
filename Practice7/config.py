@@ -1,8 +1,9 @@
-# Данные для подключения (замени на свои)
+# Данные для подключения
 DB_CONFIG = {
-    "host": "localhost",
-    "database": "phonebook_db",
-    "user": "postgres",
-    "password": "your_password",
-    "port": 5432
+Текущая кодовая страница: 1251
+Server [localhost]:
+Database [postgres]:
+Port [5432]:
+Username [postgres]:
+Пароль пользователя postgres:
 }
